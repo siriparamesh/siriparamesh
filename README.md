@@ -1,6 +1,5 @@
 ### Hi! this is Siri, nope! not the virtual assistant , but the real deal
-
-STEM Enthusiast
+ STEM Enthusiast
 ---------------
 
 I absolutely adore Science. STEM subjects resonate with the very core of my being and are the heartbeat of my soul, my unwavering true call. • I have a deep love and appreciation for Engineering as a stream & can never get enough of it. Enthralled by every single specialisation, I take a deep interest in crossdisciplinary studies. As an undergrad in Electronics and Computer Science, my dedication extends to the fascinating realms of Technology. I am into recent furtherance in science & technology, making me a keen learner in all-new advances of the same. • It brings me so much joy & fulfilment to talk to a community of cohort. There's nothing I enjoy more than diving into the discussion on the subjects of interest & discovering all their wonders.
@@ -12,14 +11,8 @@ I absolutely adore Science. STEM subjects resonate with the very core of my bein
                     </p>
                     
                   
-   <p align="left">
-                      <a href="https://discord.com/users/siri_paramesh" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-                    </picture>
-                    </a>
+                  
+<p align="left">
                       <a href="https://www.github.com/siriparamesh" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -47,14 +40,6 @@ I absolutely adore Science. STEM subjects resonate with the very core of my bein
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
-                    </a>
-                      <a href="https://www.threads.net/@siri_paramesh" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p><b>My GitHub Stats</b><a
                       href="http://www.github.com/siriparamesh"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=siriparamesh&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/siriparamesh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siriparamesh&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=siriparamesh&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
