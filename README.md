@@ -2,7 +2,12 @@
  STEM Enthusiast
 ---------------
 
-I absolutely adore Science. STEM subjects resonate with the very core of my being and are the heartbeat of my soul, my unwavering true call. • I have a deep love and appreciation for Engineering as a stream & can never get enough of it. Enthralled by every single specialisation, I take a deep interest in crossdisciplinary studies. As an undergrad in Electronics and Computer Science, my dedication extends to the fascinating realms of Technology. I am into recent furtherance in science & technology, making me a keen learner in all-new advances of the same. • It brings me so much joy & fulfilment to talk to a community of cohort. There's nothing I enjoy more than diving into the discussion on the subjects of interest & discovering all their wonders.
+I absolutely adore Science. STEM subjects resonate with the very core of my being and are the heartbeat of my soul, my unwavering true call. I have a deep love and appreciation for Engineering as a stream & can never get enough of it. Enthralled by every single specialisation, I take a deep interest in crossdisciplinary studies. As an undergrad in Electronics and Computer Science, my dedication extends to the fascinating realms of Technology. I am into recent furtherance in science & technology, making me a keen learner in all-new advances of the same. It brings me so much joy & fulfilment to talk to a community of cohort. There's nothing I enjoy more than diving into the discussion on the subjects of interest & discovering all their wonders.
+
+
+Apart from my discipline, I have a flare for Astronomy, Art and philosophy. I like delving into the intricate connections of Fine Arts
+
+
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [siriparamesh8@gmail.com](mailto:siriparamesh8@gmail.com)
