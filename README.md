@@ -1,8 +1,13 @@
 ### Hi! this is Siri, nope! not the virtual assistant , but the real deal!!
 
-Enthusiast in Science, Technology, Engineering and Mathematics.
-<br>
-Languges: Python, C<br>
-Technologies: Machine Learning, Web development
+I absolutely adore science and have a deep love and appreciation for engineering as a stream. Can never get enough of it<br>
+An undergraduate in Electronics and Computer Science<br>
+Area of Interests: Engineering, Physics, Mathematics. <br>
+Specialisations: Computer Science, Machine Learning, Data analytics, Deep Learning, Algorithm designing, Satellite Communications, Electronics and Hardware designing<br>
+Tools: Matlab, GoogleColab, Kaggle, Xilinx. <br>
+Languges: Python, C, Verilog, java<br>
+Technologies: Machine Learning, Web development (MERN)<br>
+
+
 
 
