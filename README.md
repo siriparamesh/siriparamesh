@@ -7,10 +7,10 @@ An undergraduate in Electronics and Computer Science<br> </p>
   
 - Specialisations: Computer Science, Machine Learning, Data analytics, Deep Learning, Algorithm designing, Satellite Communications, Electronics and Hardware designing<br></p>
 
-<p>- Tools: Matlab, GoogleColab, Kaggle, Xilinx. <br>
+<p>- Tools: Matlab, GoogleColab, Kaggle, Tensorflow, Jupyternotebook. <br>
   <hr>
-Languges: Python, C, Verilog, java<br>
-Technologies: Machine Learning, Web development (MERN)<br> </h4>
+ Languges: Python, C, Verilog, java<br>
+ Technologies: Machine Learning, Web development (MERN)<br> </h4>
 
 
 
