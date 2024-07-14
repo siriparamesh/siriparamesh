@@ -9,7 +9,7 @@ An undergraduate in Electronics and Computer Science<br> </p>
 
 <p>- Tools: Matlab, GoogleColab, Kaggle, Tensorflow, Jupyternotebook. <br>
   <hr>
- Languges: Python, C, Verilog, java<br>
+ Languges: Python, C, Verilog<br>
  Technologies: Machine Learning, Web development (MERN)<br> </h4>
 
 
