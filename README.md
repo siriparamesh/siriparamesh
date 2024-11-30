@@ -1,6 +1,6 @@
 
 <p> I absolutely adore science and have a deep love and appreciation for engineering as a stream. Can never get enough of it. <br>
-An undergraduate in Electronics and Computer Science<br> </p>
+An undergrad in Electronics and Computer Science<br> </p>
 
 <h4><p>- Area of Interests: Engineering, Physics, Mathematics. <br>
   
